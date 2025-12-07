@@ -1,5 +1,7 @@
 # WeChatTweak
 
+[![README](https://img.shields.io/badge/Telegram-WeChatTweak-brightgreen?logo=telegram)](https://t.me/wechattweak)
+
 A command-line tool for tweaking WeChat.
 
 ## 功能
